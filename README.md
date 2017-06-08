@@ -23,4 +23,4 @@ Please follow the directions in Appendix A of the book for directions on how to 
 
 [Chapter 9 Distributed Tracing with Spring Cloud Sleuth and Zipkin](https://github.com/carnellj/spmia-chapter9)
 
-[Chapter 10 Deploying your microservices](https://github.com/carnellj/spmia-chapter9)
+[Chapter 10 Deploying your microservices](https://github.com/carnellj/spmia-chapter10)
