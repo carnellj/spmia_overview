@@ -1,6 +1,6 @@
 # Spring Microservices In Action Overview
 
-Welcome to the Spring Microservices in Action overview page.  Thank you for purchasing the book and I hope you enjoy reading it as much as I enjoyed right it.
+Welcome to the Spring Microservices in Action overview page.  Thank you for purchasing the book and I hope you enjoy reading it as much as I enjoyed writing it.
 Each chapter in the book is broken out its individual Github repository are provided in the links below.  If you have questions or comments about the code examples provided for the book please do not hesitate to post them on [Manning's](http://manning.com) forum page on their website.
 
 Please follow the directions in Appendix A of the book for directions on how to setup your desktop environment and build the code locally.
